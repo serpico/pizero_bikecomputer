@@ -10,6 +10,7 @@ https://qiita.com/hishi/items/46619b271daaa9ad41b3
 
 - [Abstract](#abstract)
 - [Features](#features)
+- [Hardware list / Part list](#Hardware-list-/-Part list)
 - [Assembly](#assembly)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -40,6 +41,9 @@ comming soon!
 | Work |  3,896 kJ | 3,929 kJ  |
 | Moving time | 9:12 | 9:04  |
 | Total Ascent | 2,496 m | 2,569 m |
+
+
+# Hardware list / Part list
 
 # License
 
