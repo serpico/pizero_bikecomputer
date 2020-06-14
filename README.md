@@ -10,7 +10,7 @@ https://qiita.com/hishi/items/46619b271daaa9ad41b3
 
 - [Abstract](#abstract)
 - [Features](#features)
-- [Hardware list / Part list](#Hardware-list-/-Part list)
+- [Hardware list / Part list](#Hardware-list-/-Part-list)
 - [Assembly](#assembly)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
