@@ -58,6 +58,10 @@ comming soon!
  * Powerbank (3000 mAh should last 8 hours with the PiTFT version).
  * Screws and nuts (M2.5), used to secure to differents boards together, some 6mm long and some 15-20mm long **to be detailled**
  * SD card, whatever you have on hand (8GB or bigger). If you use it every week, it will die after about a year. The original author is currently using the SanDisk high endurance version of the 32GB and it's been good for a year now.
+ * Soldering Iron, solder
+ * Jumper wires and lead wires
+ * Insulation tape (cellophane tape, etc.)
+ * Wire cutters.
  
 # License
 
